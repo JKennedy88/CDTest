@@ -1,0 +1,8 @@
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\bin\Debug\PleaseWork.exe.config
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\bin\Debug\PleaseWork.exe
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\bin\Debug\PleaseWork.pdb
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\bin\Debug\System.Management.Automation.dll
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\obj\Debug\PleaseWork.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\obj\Debug\PleaseWork.csproj.CopyComplete
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\obj\Debug\PleaseWork.exe
+C:\Users\jeffrey.kennedy\source\repos\PleaseWork\PleaseWork\obj\Debug\PleaseWork.pdb
